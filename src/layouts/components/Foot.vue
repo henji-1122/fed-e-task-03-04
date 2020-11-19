@@ -3,9 +3,9 @@
     <el-row>
       <el-col :span="10">
         <div>
-          © 2018 Qimo090&emsp;&emsp;
+          henji-1122&emsp;&emsp;
           <a
-            href="https://github.com/qimo090"
+            href="https://github.com/henji-1122"
             target="_blank"
           >Profile</a>&emsp;&emsp;
           <a href="https://github.com/GitHub-Laziji/vblog" target="_blank">SBlog</a>
@@ -13,7 +13,7 @@
       </el-col>
       <el-col :span="4">
         <div style="text-align: center;font-size: 18px">
-          <i class="el-icon-location-outline">上海市</i>
+          <i class="el-icon-location-outline">兰州市</i>
         </div>
       </el-col>
       <el-col :span="10">

@@ -6,7 +6,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 const axios = require('axios')
-const githubName = 'qimo090'
+const githubName = 'henji-1122'
 
 async function getFollowings (actions) {
   const collection = actions.addCollection('following')
